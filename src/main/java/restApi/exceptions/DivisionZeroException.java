@@ -14,8 +14,5 @@ public class DivisionZeroException extends Exception {
     
     public DivisionZeroException(String detail) {
         super(DESCRIPTION + ". " + detail + ". CODE: " + CODE);
-    }
-
-
-    
+    }    
 }

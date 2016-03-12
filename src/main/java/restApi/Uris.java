@@ -25,10 +25,16 @@ public class Uris {
     public static final String ERROR = "/error";
 
     public static final String SECURITY = "/security";
-
+    
+    public static final String SECURITYANNOTATION = "/securityAnnotation";
+    
+    public static final String SECURITYURI = "/securityUri";
+    
     public static final String USER = "/user";
 
     public static final String MANAGER = "/manager";
+    
+    public static final String PLAYER = "/player";
 
     public static final String ADMIN = "/admin";
     
